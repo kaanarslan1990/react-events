@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\my_template_app"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {}
+}
